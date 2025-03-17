@@ -5,10 +5,10 @@
 Me chamo Joane Araama Pinheiro Cunha, tenho 25 anos e sou natural de Pernambuco. Concluí o ensino médio em 2016, no CCA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA. Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.
 
 <p align="left">
-    <a href="https://www.youtube.com/>
+    <a href="">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="" 
+            title="" 
             src=""
         />
     </a>
