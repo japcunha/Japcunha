@@ -9,21 +9,9 @@ Me chamo Joane Araama Pinheiro Cunha, tenho 25 anos e sou natural de Pernambuco 
         <img 
             alt="" 
             title="" 
-            src=""
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="" 
-            title="" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/japcunha?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/japcunha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/japcunha">
