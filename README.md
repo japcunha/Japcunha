@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Joane Cunha
 
-**`Desenvolvedora Frontend`**
+**`Desenvolvedora fullstack`**
 
 Me chamo Joane Araama Pinheiro Cunha, tenho 25 anos e sou natural de Pernambuco e concluí o ensino médio em 2016. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA. Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.
 
