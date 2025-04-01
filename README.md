@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Joane Cunha
 
 **`Desenvolvedora fullstack`**
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -14,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Estou no 3º semestre do curso<br>Após 3 anos trabalhando como confeiteira autônoma, estou no processo de transição para a área de tecnologia a qual eu sempre fui apaixonada<br><br>📚 Estudo em andamento<br>🎯 Pretendo me aperfeiçoar e me especializar na área de análise de dados. <br><br>✨Principais Tecnologias: HTML5 | CSS3 | Javascritpt | React | Express | Node.js | MySQL | MongoDB | Java<br>📚 Em constante aprendizado</p>
+<p align="left">✨ Estou no 3º semestre do curso<br>Após 3 anos trabalhando como confeiteira autônoma, estou no processo de transição para a área de tecnologia a qual eu sempre fui apaixonada<br><br>📚 Estudo em andamento<br>🎯 Pretendo me aperfeiçoar e me especializar na área de análise de dados. <br><br>✨Principais Tecnologias: <br>HTML5 | CSS3 | Javascritpt | React | Express | Node.js | MySQL | MongoDB | Java<br>📚 Em constante aprendizado</p>
 
 ###
 
@@ -40,7 +39,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Database</h2>
 
 ###
 
@@ -69,7 +68,6 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
