@@ -5,15 +5,15 @@
 
 ###
 
-<p align="left">Me chamo Joane Cunha, tenho 25 anos e sou natural de Pernambuco e concluí o ensino médio em 2016. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA. Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
+<p align="left">✨Me chamo Joane Cunha, tenho 25 anos e sou natural de Pernambuco e concluí o ensino médio em 2016. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA, atualmente no 3º Semestre e Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
 
 ###
-
 <h2 align="left">About me</h2>
 
+
 ###
 
-<p align="left">✨ Estou no 3º semestre do curso<br>Após 3 anos trabalhando como confeiteira autônoma, estou no processo de transição para a área de tecnologia a qual eu sempre fui apaixonada<br><br>📚 Estudo em andamento<br>🎯 Pretendo me aperfeiçoar e me especializar na área de análise de dados. <br><br>✨Principais Tecnologias: <br>HTML5 | CSS3 | Javascritpt | React | Express | Node.js | MySQL | MongoDB | Java<br>📚 Em constante aprendizado</p>
+<p align="left"> 🎯 Pretendo me aperfeiçoar e me especializar na área de análise de dados. <br><br> ✨ Principais Linguagens Tecnologias: <br> HTML5 | CSS3 | Javascritpt | React | Express | Node.js | MySQL | MongoDB <br>📚 Em constante aprendizado</p>
 
 ###
 
@@ -66,13 +66,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40" alt="linkedin logo"  />
   
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/joane-cunha-43766a149/)
+
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/joanep.c/)
+
 </div>
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/seu-usuario/)
-
 
 ###
 
