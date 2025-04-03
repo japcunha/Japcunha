@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Me chamo Joane Cunha, tenho 25 anos e atualmente, estou cursando 3º semestre de Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA,Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
+<p align="left">Me chamo Joane Cunha, tenho 25 anos e atualmente estou cursando 3º semestre de Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA. Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
 
 ###
 <h2 align="left">About me</h2>
