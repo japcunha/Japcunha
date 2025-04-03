@@ -1,11 +1,11 @@
 # 👩🏻‍💻 Joane Cunha
 
 **`Desenvolvedora fullstack`**
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hello World!</h1>
 
 ###
 
-<p align="left">✨Me chamo Joane Cunha, tenho 25 anos e sou natural de Pernambuco e concluí o ensino médio em 2016. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA, atualmente no 3º Semestre e Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
+<p align="left">Me chamo Joane Cunha, tenho 25 anos e sou natural de Pernambuco e concluí o ensino médio em 2016. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACULDADE DESCOMPLICA, atualmente no 3º Semestre e Sou apaixonada por tecnologia e por aprender coisas novas úteis todos os dias.</p>
 
 ###
 <h2 align="left">About me</h2>
