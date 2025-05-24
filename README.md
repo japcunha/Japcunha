@@ -6,14 +6,14 @@
 
 <p align="left">Me chamo Joane Cunha, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
-Sou apaixonada pela área e por aprender coisas novas todos os dias.
+Sou apaixonada pela área e pelo aprendizado contínuo.
 Atualmente, estou em busca da minha primeira oportunidade de estágio como desenvolvedora fullstack, onde eu possa:
 
-- Aplicar meus conhecimentos em JavaScript, React, HTML e CSS
+- Aplicar meus conhecimentos em lógica de programação e orientação a objetos.
 - Continuar me desenvolvendo em Java e SQL
 - Contribuir com projetos reais e crescer profissionalmente
 
-Estou sempre praticando e pretendo futuramente me especializar na área de dados</p>
+Meu objetivo futuro é me especializar na área de dados, unindo desenvolvimento com análise inteligente de informações.</p>
 
 ###
 
