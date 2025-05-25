@@ -64,12 +64,6 @@ Meu objetivo futuro é me especializar na área de dados, unindo desenvolvimento
 
 <h2 align="left">Social Medias</h2>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
 
 ###
 
@@ -87,4 +81,3 @@ Meu objetivo futuro é me especializar na área de dados, unindo desenvolvimento
 
 
 
-###
